@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mubashir Ali
-- 👀 I’m interested in modern technologies and scalable and robust applications
+- 👀 I’m interested in modern technologies and scalable,robust applications
 - 🌱 I’m currently learning devOps
 - 💞️ I’m looking to collaborate on backends apps
 - 📫 How to reach me,email me at mubashirmobi633@gmail.com
